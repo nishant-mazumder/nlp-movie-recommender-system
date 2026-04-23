@@ -69,6 +69,7 @@ nlp-movie-recommender-system/
 ├── requirements.txt        # Dependencies
 ├── runtime.txt             # Python version config (deployment)
 └── .python-version         # Python version specification
+```
 
 ---
 
