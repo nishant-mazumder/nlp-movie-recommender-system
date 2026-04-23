@@ -14,7 +14,7 @@ Instead of relying on user interaction data, the system focuses purely on **cont
 
 ---
 
-## Live Demo
+## 🔗 Live Demo
 
 - **Backend (FastAPI Docs):**  
   https://nlp-movie-recommender-system.onrender.com/docs  
@@ -53,17 +53,22 @@ Instead of relying on user interaction data, the system focuses purely on **cont
 
 ## Project Structure
 
+```bash
 nlp-movie-recommender-system/
-├── app.py # Streamlit frontend
-├── main.py # FastAPI backend
-├── df.pkl # Processed dataset
-├── indices.pkl # Title to index mapping
-├── tfidf.pkl # TF-IDF vectorizer
-├── tfidf_matrix.pkl # TF-IDF matrix
-├── movies_metadata.csv # Raw dataset
-├── requirements.txt # Dependencies
-├── runtime.txt # Python version config (deployment)
-└── .python-version # Python version specification
+│
+├── app.py                  # Streamlit frontend
+├── main.py                 # FastAPI backend
+│
+├── df.pkl                  # Processed dataset
+├── indices.pkl             # Title to index mapping
+├── tfidf.pkl               # TF-IDF vectorizer
+├── tfidf_matrix.pkl        # TF-IDF matrix
+│
+├── movies_metadata.csv     # Raw dataset
+│
+├── requirements.txt        # Dependencies
+├── runtime.txt             # Python version config (deployment)
+└── .python-version         # Python version specification
 
 ---
 
