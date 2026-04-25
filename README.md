@@ -108,6 +108,16 @@ nlp-movie-recommender-system/
 
 ---
 
+## Screenshots
+
+### 🎬 Home Interface
+![Home Interface](images/Home.png)
+
+### 🔍 Recommendation Results
+![Recommendation Results](images/RecommendationS.png)
+
+---
+
 ## ⚡ Key Highlights
 
 - Built a complete **NLP-based recommendation pipeline**  
