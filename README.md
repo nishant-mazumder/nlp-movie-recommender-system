@@ -114,7 +114,7 @@ nlp-movie-recommender-system/
 ![Home Interface](images/Home.png)
 
 ### 🔍 Recommendation Results
-![Recommendation Results](images/RecommendationS.png)
+![Recommendation Results](images/Recommendations.png)
 
 ---
 
