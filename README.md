@@ -14,16 +14,6 @@ Instead of relying on user interaction data, the system focuses purely on **cont
 
 ---
 
-## 🔗 Live Demo
-
-- **Backend (FastAPI Docs):**  
-  https://nlp-movie-recommender-system.onrender.com/docs  
-
-- **Frontend (Streamlit App):**  
-  *(Add your deployed Streamlit link here)*
-
----
-
 ## How It Works
 
 1. **Feature Construction**  
